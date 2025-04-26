@@ -1,4 +1,4 @@
- 
+
  # DİJİTAL KIZ KARDEŞLİK 
  
  Bu proje, **EmpowerHer** programı kapsamında geliştirilmiş sosyal etki odaklı bir girişimdir.  
@@ -33,3 +33,4 @@ Bu proje, **EmpowerHer**, **Kodluyoruz** ve destek veren tüm mentorlar, eğitim
 *Bu proje bir hayalden fazlası: hem bir çocuğun geleceğini, hem de doğanın kendisini büyütüyor.* 🌍💻🌲
 
 ![](C:\Users\sinem\OneDrive\Masaüstü\5987986655136565818.jpg)
+

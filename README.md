@@ -31,3 +31,5 @@ Kazandıkları puanlar, sponsor destekleriyle **gerçek fidanlara** dönüşür 
 Bu proje, **EmpowerHer**, **Kodluyoruz** ve destek veren tüm mentorlar, eğitimciler ve sponsorlara teşekkür eder.
 
 *Bu proje bir hayalden fazlası: hem bir çocuğun geleceğini, hem de doğanın kendisini büyütüyor.* 🌍💻🌲
+
+![](C:\Users\sinem\OneDrive\Masaüstü\5987986655136565818.jpg)

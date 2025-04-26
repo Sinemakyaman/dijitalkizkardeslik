@@ -1,16 +1,14 @@
-
- # DİJİTAL KIZ KARDEŞLİK 
+# DİJİTAL KIZ KARDEŞLİK 
+Bu proje, **EmpowerHer** programı kapsamında geliştirilmiş sosyal etki odaklı bir girişimdir.  
+Hedefi, kırsalda yaşayan ilkokul çağındaki kız çocuklarına yapay zekâ destekli ve oyunlaştırılmış eğitimler sunarak onları dijital dünyaya hazırlamaktır.
  
- Bu proje, **EmpowerHer** programı kapsamında geliştirilmiş sosyal etki odaklı bir girişimdir.  
- Hedefi, kırsalda yaşayan ilkokul çağındaki kız çocuklarına yapay zekâ destekli ve oyunlaştırılmış eğitimler sunarak onları dijital dünyaya hazırlamaktır.
+## Proje Amacı
  
- ##  Proje Amacı
- 
- > **Çekirdekten Dijital Güç** misyonu ile kız çocuklarına:
- - Kodlama,
- - Dijital okuryazarlık,
- - Çevre bilinci  
-   konularında eğitimler verir.
+> **Çekirdekten Dijital Güç** misyonu ile kız çocuklarına:
+- Kodlama,
+- Dijital okuryazarlık,
+- Çevre bilinci  
+konularında eğitimler verir.
  
 > Eğitimler oyunlaştırılmış sistemlerle sunulur. 
 Öğrenciler tamamladıkları her görevle sanal bir **“sınıf ormanı”** oluşturur.  
@@ -32,5 +30,7 @@ Bu proje, **EmpowerHer**, **Kodluyoruz** ve destek veren tüm mentorlar, eğitim
 
 *Bu proje bir hayalden fazlası: hem bir çocuğun geleceğini, hem de doğanın kendisini büyütüyor.* 🌍💻🌲
 
-![](C:\Users\sinem\OneDrive\Masaüstü\5987986655136565818.jpg)
+---
+
+![](images/5987986655136565818.jpg)
 
